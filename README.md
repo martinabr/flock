@@ -1,7 +1,7 @@
 # Flock
 
 This repository contains the source code of Flock for the use with Glossy.
-Flock is an approach to compensate clock frequency deviations on-the-fly across synchronously transmitting nodes.
+Flock is an approach to compensate clock frequency deviations on-the-fly across synchronously transmitting nodes. 
 
 To learn more about Flock, check out our IEEE LCN'17 paper.
 
