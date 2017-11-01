@@ -119,7 +119,7 @@ main(int argc, char **argv)
   
   leds_on(LEDS_BLUE);
   
-  msp430_cpu_set(mcu_frequency_table[node_id]);
+  //msp430_cpu_set(mcu_frequency_table[node_id]);
   leds_on(LEDS_RED);
   leds_on(LEDS_GREEN);
 
