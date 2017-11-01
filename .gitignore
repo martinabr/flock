@@ -1,0 +1,16 @@
+glossy-test.sky
+apps/glossy-test/symbols.c
+apps/glossy-test/symbols.h
+nbproject/configurations.xml
+nbproject/project.xml
+nbproject/private/c_standard_headers_indexer.c
+nbproject/private/CodeAssistancePathMapper.properties
+nbproject/private/configurations.xml
+nbproject/private/cpp_standard_headers_indexer.cpp
+nbproject/private/Default-build.log
+nbproject/private/Default-exec.log
+nbproject/private/Default.properties
+nbproject/private/launcher.properties
+nbproject/private/private.xml
+nbproject/private/tools/localhost/msp430-4.6.3/msp430-g++
+nbproject/private/tools/localhost/msp430-4.6.3/msp430-gcc-4.6.3
